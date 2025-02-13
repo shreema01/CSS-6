@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+    height:100px;
+    width:100px;
+    border:3px solid black;
+    margin:5px;
+}
+#heading{
+    text-align:center;
+}
+#flexbox{
+    height:600px;
+    width:600px;
+    border:3px solid black;
+    margin:20px;
+    padding:10px;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: blueviolet;
+}
+#box3{
+    background-color: yellow;
+}
+#box4{
+    background-color: tomato;
+}
